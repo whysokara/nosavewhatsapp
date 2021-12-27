@@ -10,6 +10,7 @@ function App() {
   };
   return (
     <div className="App">
+      <h2>Now you don't have to save a contact to WhatsApp</h2>
       <input
         onChange={inputHandler}
         type="text"
