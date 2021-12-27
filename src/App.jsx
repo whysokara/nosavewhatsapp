@@ -18,7 +18,7 @@ function App() {
         placeholder="enter number"
       />
       <br />
-      <a href={`https://wa.me/${input}`}>
+      <a href={`https://wa.me/91${input}`}>
         <button>Ping on WhatsApp</button>
       </a>
     </div>
